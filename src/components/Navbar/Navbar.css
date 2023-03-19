@@ -1,0 +1,17 @@
+.top__contanier{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 10vh;
+    color:white;
+}
+.links{
+    display: flex;
+    margin: 0.5rem 1rem;
+    
+}
+.icon{
+    display: flex;
+    margin: 0.5rem 1rem;
+    font-size: 1.5rem;
+}
