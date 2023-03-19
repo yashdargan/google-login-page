@@ -8,7 +8,7 @@ const Front = () => {
         <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="" /> 
         <div className="search_bar">
          <FaSearch className='search_icon'/>   
-        <input className="search__bar" type="search" placeholder='google it' />
+        <input className="search__bar" type="search" />
         <FaSearch className='search_icon'/>
         <FaCamera className='search_icon'/>
         </div>
